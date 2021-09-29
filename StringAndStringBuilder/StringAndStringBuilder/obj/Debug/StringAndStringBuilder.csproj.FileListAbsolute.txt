@@ -1,0 +1,7 @@
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StringAndStringBuilder\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\StringAndStringBuilder.exe.config
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StringAndStringBuilder\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\StringAndStringBuilder.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StringAndStringBuilder\StringAndStringBuilder\StringAndStringBuilder\bin\Debug\StringAndStringBuilder.pdb
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StringAndStringBuilder\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\StringAndStringBuilder.csproj.AssemblyReference.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StringAndStringBuilder\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\StringAndStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StringAndStringBuilder\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\StringAndStringBuilder.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\StringAndStringBuilder\StringAndStringBuilder\StringAndStringBuilder\obj\Debug\StringAndStringBuilder.pdb
